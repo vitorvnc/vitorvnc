@@ -6,6 +6,9 @@
   <h5 align="center">Desenvolvedor Java, C# com 3 anos de experiência em banco de dados SQL Server e softwares VOIP. Desenvolvimento web com frameworks Bootstrap, Angular e 
 também Typescript. 
   </h5>
+  
+  <h5 align="center"><a href="https://energymgen.netlify.app/" target="_blank">Projeto Energym (rede social)</a>
+  </h5>
 </div>
 
 
